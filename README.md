@@ -1,1 +1,1 @@
-# <- That sumbol means format as header
+# <- That symbol means format as header in markdown
